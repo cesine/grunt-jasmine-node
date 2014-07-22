@@ -28,7 +28,7 @@
   },
   "scripts": {},
   "dependencies": {
-    "jasmine-node": "git://github.com/kacperus/jasmine-node.git",
+    "jasmine-node": "^1.14.5",
     "coffee-script": "~1.6.2"
   },
   "devDependencies": {
